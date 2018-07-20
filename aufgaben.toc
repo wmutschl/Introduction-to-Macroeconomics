@@ -1,0 +1,83 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Volkswirtschaftliche Gesamtrechnung}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Verst\"{a}ndnis}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Einfache Berechnungen}{1}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Berechnungen (I)}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Berechnungen (II)}{2}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Berechnungen (III)}{3}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Berechnungen (IV)}{3}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Kreislaufschema (I)}{4}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Kreislaufschema (II)}{4}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}Finanzierungssalden}{4}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}Geschlossene vs. Offene Volkswirtschaft}{5}{subsection.1.10}
+\contentsline {subsection}{\numberline {1.11}Verst\"{a}ndnisfragen (wahr/falsch)}{5}{subsection.1.11}
+\contentsline {subsection}{\numberline {1.12}Lohnquote}{6}{subsection.1.12}
+\contentsline {subsection}{\numberline {1.13}Lorenzkurve + Gini-Koeffizient}{7}{subsection.1.13}
+\contentsline {subsection}{\numberline {1.14}BIP-Konzepte: Nominal, Real, Kettenindex}{7}{subsection.1.14}
+\contentsline {subsection}{\numberline {1.15}Klausuraufgaben}{7}{subsection.1.15}
+\contentsline {section}{\numberline {2}Die (Neo-)Klassische Theorie}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}Verst\IeC {\"a}ndnis}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Rechenaufgabe}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Kassenhaltungskoeffizient im (neo-)klassischen Modell}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Nominallohn im (neo-)klassischen Modell}{10}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Kapitalstock und Geldpolitik im (neo-)klassischen Modell}{10}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Verst\IeC {\"a}ndnisfragen (wahr/falsch)}{10}{subsection.2.6}
+\contentsline {section}{\numberline {3}Keynesianische Theorie}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}Keynesianische Kreuz, Sparfunktion, und Multiplikatoren}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Haavelmo Theorem im Keynesianischen Modell}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}IS-Kurve}{14}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Verst\"{a}ndnisfragen (wahr/falsch)}{14}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Klausuraufgabe}{15}{subsection.3.5}
+\contentsline {section}{\numberline {4}Geldmarkt und LM-Kurve}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}Geldsch\"{o}pfung, Geldnachfrage und LM-Kurve}{15}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Geldsch\"{o}pfungsmultiplikator}{16}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Verst\"{a}ndnisfragen (wahr/falsch)}{16}{subsection.4.3}
+\contentsline {section}{\numberline {5}IS-LM-Modell}{16}{section.5}
+\contentsline {subsection}{\numberline {5.1}Wirtschaftspolitische Ma{\ss }nahmen}{16}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Sparquote im IS-LM Modell}{17}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Liquidit\IeC {\"a}tsfalle im IS-LM Modell}{17}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Klassischer Verlauf der LM Kurve}{18}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Investitionsfalle im IS-LM Modell}{18}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Rechenaufgabe}{19}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Verst\"{a}ndnisfragen (wahr/falsch)}{19}{subsection.5.7}
+\contentsline {subsection}{\numberline {5.8}Verst\IeC {\"a}ndnisfragen Keynesianische Theorie (wahr/falsch)}{20}{subsection.5.8}
+\contentsline {section}{\numberline {6}Lundberg und Robertson Lag}{22}{section.6}
+\contentsline {subsection}{\numberline {6.1}Verst\IeC {\"a}ndnisfragen}{22}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Rechenaufgabe Robertson Lag}{22}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Rechenaufgabe Lundberg Lag}{23}{subsection.6.3}
+\contentsline {section}{\numberline {7}Hick'sche Wachstumsmodell}{24}{section.7}
+\contentsline {subsection}{\numberline {7.1}Verst\IeC {\"a}ndnisfragen}{24}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Rechenaufgabe}{24}{subsection.7.2}
+\contentsline {section}{\numberline {8}Neoklassische Synthese}{25}{section.8}
+\contentsline {subsection}{\numberline {8.1}Aggregierte Nachfrage (AD-Modell)}{25}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Keynesianisches Totalmodell}{25}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Demografische Entwicklung in der neoklassischen Synthese}{25}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Wirtschaftspolitische Ma\IeC {\ss }nahmen in der neoklassischen Synthese}{26}{subsection.8.4}
+\contentsline {section}{\numberline {9}Geldtheorie}{27}{section.9}
+\contentsline {subsection}{\numberline {9.1}Rechenaufgabe}{27}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Verst\IeC {\"a}ndnisfragen (wahr/falsch)}{27}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Klausuraufgaben}{27}{subsection.9.3}
+\contentsline {section}{\numberline {10}Offene Volkswirtschaft und Mundell-Fleming}{29}{section.10}
+\contentsline {subsection}{\numberline {10.1}Offene Volkswirtschaft}{29}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Mundell-Fleming}{29}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Klausuraufgaben}{29}{subsection.10.3}
+\contentsline {section}{\numberline {11}Arbeitsmarkt und AS-AD Modell}{31}{section.11}
+\contentsline {subsection}{\numberline {11.1}Arbeitsmarkt und Aggregierte Angebot}{31}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Aggregierte Nachfrage}{31}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Wirtschaftspolitische Ma{\ss }nahmen im AS-AD Modell}{32}{subsection.11.3}
+\contentsline {subsection}{\numberline {11.4}Klausuraufgaben}{32}{subsection.11.4}
+\contentsline {section}{\numberline {12}Phillips-Kurve}{33}{section.12}
+\contentsline {section}{\numberline {13}Solow-Modell}{34}{section.13}
+\contentsline {subsection}{\numberline {13.1}Rechenaufgabe}{34}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Zwei L\"{a}nder}{34}{subsection.13.2}
+\contentsline {subsection}{\numberline {13.3}Tropicana}{35}{subsection.13.3}
+\contentsline {subsection}{\numberline {13.4}China}{35}{subsection.13.4}
+\contentsline {subsection}{\numberline {13.5}Solow Konvergenz}{35}{subsection.13.5}
+\contentsline {subsection}{\numberline {13.6}Klausuraufgaben}{35}{subsection.13.6}
+\contentsline {section}{\numberline {14}Solow-Modell}{36}{section.14}
+\contentsline {subsection}{\numberline {14.1}Verst\IeC {\"a}ndnis}{36}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Rechenaufgabe}{36}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}Bev\IeC {\"o}lkerungswachstum}{37}{subsection.14.3}
+\contentsline {subsection}{\numberline {14.4}Abschreibungsrate}{37}{subsection.14.4}
+\contentsline {subsection}{\numberline {14.5}China}{37}{subsection.14.5}
+\contentsline {subsection}{\numberline {14.6}Solow Konvergenz}{37}{subsection.14.6}
